@@ -1,0 +1,221 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="name">Name</string>
+    <string name="type">Type</string>
+    <string name="weakness">Weakness</string>
+    <string name="description">Description</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="category">Category</string>
+    <string name="abilities">Abilities</string>
+    <string name="grid">Grid</string>
+    <string name="list">List</string>
+    <string name="pokemon_details">Pokemon Details</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at tortor sit amet ipsum vehicula dignissim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</string>
+    <string name="pokemon_details_string">Pokemon Details</string>
+    <string name="profile">Profile</string>
+    <string name="profil_dicoding">Profil Dicoding</string>
+    <string name="my_name">Vincentius Kennedy Winardinata</string>
+    <string name="my_email">kenken010103@gmail.com</string>
+    <string name="my_card">About Me!</string>
+    <string name="index">Index</string>
+</resources>
+
+    <!--  <string-array name="pokemon_name">
+          <item>Groudon</item>
+          <item>Rayquaza</item>
+          <item>Dialga</item>
+          <item>Giratina</item>
+          <item>Regigigas</item>
+          <item>Palkia</item>
+          <item>Arceus</item>
+          <item>Golurk</item>
+          <item>Zekrom</item>
+          <item>Reshiram</item>
+          <item>Kyurem</item>
+          <item>Yveltal</item>
+          <item>Xerneas</item>
+          <item>Zygarde</item>
+          <item>Lunala</item>
+          <item>Buzzwole</item>
+          <item>Necrozma</item>
+          <item>Celesteela</item>
+          <item>Melmetal</item>
+          <item>Eternatus</item>
+      </string-array>
+      <string-array name="pokemon_type">
+          <item>Ground</item>
+          <item>Dragon|Flying</item>
+          <item>Steel|Dragon</item>
+          <item>Ghost|Dragon</item>
+          <item>Normal</item>
+          <item>Water|Dragon</item>
+          <item>Normal</item>
+          <item>Ground|Ghost</item>
+          <item>Dragon|Electric</item>
+          <item>Dragon|Fire</item>
+          <item>Dragon|Ice</item>
+          <item>Dark|Flying</item>
+          <item>Fairy</item>
+          <item>Dragon|Ground</item>
+          <item>Psychic|Ghost</item>
+          <item>Bug|Fighting</item>
+          <item>Psychic</item>
+          <item>Steel|Flying</item>
+          <item>Steel</item>
+          <item>Poison|Dragon</item>
+      </string-array>
+      <string-array name="pokemon_description">
+          <item>Groudon is said to be the personification of the land itself. Legends tell of its many clashes against Kyogre, as each sought to gain the power of nature.</item>
+          <item>Rayquaza is said to have lived for hundreds of millions of years. Legends remain of how it put to rest the clash between Kyogre and Groudon.</item>
+          <item>It has the power to control time. It appears in Sinnoh-region myths as an ancient deity.</item>
+          <item>This Pokémon is said to live in a world on the reverse side of ours, where common knowledge is distorted and strange.</item>
+          <item>It is said to have made Pokémon that look like itself from a special ice mountain, rocks, and magma.</item>
+          <item>It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.</item>
+          <item>According to the legends of Sinnoh, this Pokémon emerged from an egg and shaped all there is in this world.</item>
+          <item>Artillery platforms built into the walls of ancient castles served as perches from which Golurk could fire energy beams.</item>
+          <item>This legendary Pokémon can scorch the world with lightning. It assists those who want to build an ideal world.</item>
+          <item>This legendary Pokémon can scorch the world with fire. It helps those who want to build a world of truth.</item>
+          <item>This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals.</item>
+          <item>When this legendary Pokémon’s wings and tail feathers spread wide and glow red, it absorbs the life force of living creatures.</item>
+          <item>Legends say it can share eternal life. It slept for a thousand years in the form of a tree before its revival.</item>
+          <item>This is Zygarde’s form when about half of its pieces have been assembled. It plays the role of monitoring the ecosystem.</item>
+          <item>Records of it exist in writings from long, long ago, where it was known by the name “the beast that calls the moon.”</item>
+          <item>Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives.</item>
+          <item>It looks somehow pained as it rages around in search of light, which serves as its energy. It’s apparently from another world.</item>
+          <item>One of the dangerous UBs, high energy readings can be detected coming from both of its huge arms.</item>
+          <item>At the end of its life-span, Melmetal will rust and fall apart. The small shards left behind will eventually be reborn as Meltan.</item>
+          <item>The core on its chest absorbs energy emanating from the lands of the Galar region. This energy is what allows Eternatus to stay active.</item>
+      </string-array>
+      <string-array name="pokemon_weakness">
+          <item>Water|Grass|Ice</item>
+          <item>Fairy|Dragon|Ice|Rock</item>
+          <item>Fighting|Ground</item>
+          <item>Ghost|Dark|Fairy|Ice|Dragon</item>
+          <item>Fighting</item>
+          <item>Fairy|Dragon</item>
+          <item>Fighting</item>
+          <item>Water|Ghost|Grass|Dark|Ice</item>
+          <item>Fairy|Dragon|Ice|Ground</item>
+          <item>Ground|Rock|Dragon</item>
+          <item>Steel|Fairy|Rock|Fighting|Dragon</item>
+          <item>Fairy|Electric|Ice|Rock</item>
+          <item>Steel|Poison</item>
+          <item>Fairy|Ice|Dragon</item>
+          <item>Ghost|Dark</item>
+          <item>Fire|Psychic|Flying|Fairy</item>
+          <item>Ghost|Dark|Bug</item>
+          <item>Fire|Electric</item>
+          <item>Fire|Fighting|Ground</item>
+          <item>Psychic|Ground|Ice|Dragon</item>
+      </string-array>
+      <string-array name="pokemon_detail_height">
+          <item>11\' 06"</item>
+          <item>23\' 00"</item>
+          <item>17\' 09"</item>
+          <item>14\' 09"</item>
+          <item>12\' 02"</item>
+          <item>13\' 09"</item>
+          <item>10\' 06"</item>
+          <item>9\' 02"</item>
+          <item>9\' 06"</item>
+          <item>10\' 06"</item>
+          <item>9\' 10"</item>
+          <item>19\' 00"</item>
+          <item>9\' 10"</item>
+          <item>16\' 05"</item>
+          <item>13\' 01"</item>
+          <item>7\' 10"</item>
+          <item>7\' 10"</item>
+          <item>30\' 02"</item>
+          <item>8\' 02"</item>
+          <item>65\' 07"</item>
+      </string-array>
+      <string-array name="pokemon_detail_weight">
+          <item>2094.4 lbs</item>
+          <item>455.3 lbs</item>
+          <item>1505.8 lbs</item>
+          <item>1653.5 lbs</item>
+          <item>925.9 lbs</item>
+          <item>740.8 lbs</item>
+          <item>705.5 lbs</item>
+          <item>727.5 lbs</item>
+          <item>760.6 lbs</item>
+          <item>727.5 lbs</item>
+          <item>716.5 lbs</item>
+          <item>447.5 lbs</item>
+          <item>474.0 lbs</item>
+          <item>672.4 lbs</item>
+          <item>264.6 lbs</item>
+          <item>735.5 lbs</item>
+          <item>507.1 lbs</item>
+          <item>2204.4 lbs</item>
+          <item>1763.7 lbs</item>
+          <item>2094.4 lbs</item>
+      </string-array>
+      <string-array name="pokemon_detail_category">
+          <item>Continent</item>
+          <item>Sky High</item>
+          <item>Temporal</item>
+          <item>Renegade</item>
+          <item>Colossal</item>
+          <item>Spatial</item>
+          <item>Alpha</item>
+          <item>Automaton</item>
+          <item>Deep Black</item>
+          <item>Vast White</item>
+          <item>Boundary</item>
+          <item>Destruction</item>
+          <item>Life</item>
+          <item>Order</item>
+          <item>Moone</item>
+          <item>Swollen</item>
+          <item>Prism</item>
+          <item>Launch</item>
+          <item>Hex Nut</item>
+          <item>Gigantic</item>
+      </string-array>
+      <string-array name="pokemon_detail_abilities">
+          <item>Drought</item>
+          <item>Air Lock</item>
+          <item>Pressure</item>
+          <item>Pressure</item>
+          <item>Slow Start</item>
+          <item>Pressure</item>
+          <item>Multitype</item>
+          <item>Iron Fist|Klutz</item>
+          <item>Teravolt</item>
+          <item>Turboblaze</item>
+          <item>Pressure</item>
+          <item>Dark Aura</item>
+          <item>Fairy Aura</item>
+          <item>Aura Break</item>
+          <item>Shadow Shield</item>
+          <item>Beast Boost</item>
+          <item>Prism Armor</item>
+          <item>Beast Boost</item>
+          <item>Iron Fist</item>
+          <item>Pressure</item>
+      </string-array>
+      <string-array name="pokemon_photo">
+          <item>https://assets.pokemon.com/assets/cms2/img/pokedex/full/383.png</item>
+          <item>https://assets.pokemon.com/assets/cms2/img/pokedex/full/384.png</item>
+          <item>https://assets.pokemon.com/assets/cms2/img/pokedex/full/483.png</item>
+          <item>https://assets.pokemon.com/assets/cms2/img/pokedex/full/487.png</item>
+          <item>https://assets.pokemon.com/assets/cms2/img/pokedex/full/486.png</item>
+          <item>https://assets.pokemon.com/assets/cms2/img/pokedex/full/484.png</item>
+          <item>https://assets.pokemon.com/assets/cms2/img/pokedex/full/493.png</item>
+          <item>https://assets.pokemon.com/assets/cms2/img/pokedex/full/623.png</item>
+          <item>https://assets.pokemon.com/assets/cms2/img/pokedex/full/644.png</item>
+          <item>https://assets.pokemon.com/assets/cms2/img/pokedex/full/643.png</item>
+          <item>https://assets.pokemon.com/assets/cms2/img/pokedex/full/646.png</item>
+          <item>https://assets.pokemon.com/assets/cms2/img/pokedex/full/717.png</item>
+          <item>https://assets.pokemon.com/assets/cms2/img/pokedex/full/716.png</item>
+          <item>https://assets.pokemon.com/assets/cms2/img/pokedex/full/718.png</item>
+          <item>https://assets.pokemon.com/assets/cms2/img/pokedex/full/792.png</item>
+          <item>https://assets.pokemon.com/assets/cms2/img/pokedex/full/794.png</item>
+          <item>https://assets.pokemon.com/assets/cms2/img/pokedex/full/800.png</item>
+          <item>https://assets.pokemon.com/assets/cms2/img/pokedex/full/797.png</item>
+          <item>https://assets.pokemon.com/assets/cms2/img/pokedex/full/809.png</item>
+          <item>https://assets.pokemon.com/assets/cms2/img/pokedex/full/890.png</item>
+      </string-array> -->
